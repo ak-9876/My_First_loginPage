@@ -6,6 +6,9 @@ h1 {
   font-size: 40px;
   font-family: cursive;
 }
+body{
+  background_color:violet;
+}
 
 .main {
   padding-left: 120px;
